@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DependencyInjectionDemo.Data
 {
-    public class DummyDataAccess : IDummyDataAccess
+    public class DummyDataAccess : IDataAccess
     {
         public int age;
         public DummyDataAccess()

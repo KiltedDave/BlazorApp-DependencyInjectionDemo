@@ -1,6 +1,6 @@
 ﻿namespace DependencyInjectionDemo.Data
 {
-    public interface IDummyDataAccess
+    public interface IDataAccess
     {
         int GetUserAge();
     }
