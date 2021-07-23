@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj": {}
+    "D:\\repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj": {
+    "D:\\repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj",
+        "projectUniqueName": "D:\\repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj",
         "projectName": "DependencyInjectionDemo",
-        "projectPath": "D:\\Repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj",
+        "projectPath": "D:\\repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\DependencyInjectionDemo.csproj",
         "packagesPath": "C:\\Users\\dpm48\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\obj\\",
+        "outputPath": "D:\\repos\\KiltedDave\\BlazorApp-DependencyInjectionDemo\\DependencyInjectionDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dpm48\\AppData\\Roaming\\NuGet\\NuGet.Config",
