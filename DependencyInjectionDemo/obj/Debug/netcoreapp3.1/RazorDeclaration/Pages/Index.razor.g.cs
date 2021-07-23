@@ -75,6 +75,13 @@ using DependencyInjectionDemo.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "D:\repos\KiltedDave\BlazorApp-DependencyInjectionDemo\DependencyInjectionDemo\Pages\Index.razor"
+using DependencyInjectionDemo.Data;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -83,6 +90,7 @@ using DependencyInjectionDemo.Shared;
         {
         }
         #pragma warning restore 1998
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IDataAccess db { get; set; }
     }
 }
 #pragma warning restore 1591
