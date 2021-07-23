@@ -7,7 +7,8 @@ namespace DependencyInjectionDemo.Data
 {
     public class DummyDataAccess : IDataAccess
     {
-        public int age;
+        private int age;
+
         public DummyDataAccess()
         {
             Random rnd = new Random();
